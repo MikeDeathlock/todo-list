@@ -1,0 +1,22 @@
+.main-404 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-404 .main-404-header {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-shadow: 1px 2px 3px gray;
+    cursor: default;
+}
+
+.main-404-header span {
+    font-weight: 500;
+    color: red;
+}
